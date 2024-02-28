@@ -10,6 +10,7 @@ Pygame – pip install pygame (to play alarm sound).
 If tensorflow doesn't work , create the python virtual environment and install the tensorflow and all the neccessary packages.
 
 For Facial recognition of the driver , a sample image should placed in the driver_images folder with the respective driver's name.
+The user_location.txt file stores the report status of the driver which includes name,status,location,time etc.
 
 A predefined trained dataset is used in this project , however you can also use alternative dataset which can be downloaded from the link given below :-
 https://www.kaggle.com/datasets/serenaraju/yawn-eye-dataset-new
