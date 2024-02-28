@@ -1,0 +1,10 @@
+The requirement for this Python project is a webcam through which we will capture images. You need to have python 3.7 installed on your system, then using pip, you can install the necessary packages.
+
+Project Prerequisites:-
+
+OpenCV – pip install opencv-python (face and eye detection).
+TensorFlow – pip install tensorflow (keras uses TensorFlow as backend).
+Keras – pip install keras (to build our classification model).
+Pygame – pip install pygame (to play alarm sound).
+
+If tensorflow doesn't work , create the python virtual environment and install the tensorflow and all the neccessary packages.
